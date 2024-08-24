@@ -1,0 +1,11 @@
+mongod --version //to check the version of mongodb
+systemctl status mongod //to checj whether the mongodb is active or not 
+systemctl start mongod //to start the mongodb
+
+
+to install copy the link from official website of mongodb //
+sudo apt update 
+wget //paste the link copied from the official website of mongodb//
+ls
+sudo dpkg -i .///copy it from the ls   .deb file//
+mongosh.version

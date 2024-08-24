@@ -1,0 +1,12 @@
+sudo apt install node.js
+node -v
+npm -v
+sudo apt install npm 
+npm -v
+sudo apt update
+
+sudo npm install  -g n
+<!-- to update -->
+ sudo n ("version")
+ node -v
+ 
